@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'theme_constants.dart';
+import '../theme/theme_constants.dart';
 
 class BikeCartScreen extends StatelessWidget {
   const BikeCartScreen({super.key});

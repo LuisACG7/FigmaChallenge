@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'theme_constants.dart';
+import '../theme/theme_constants.dart';
 import 'bike_home_screen.dart';
 
 class BikeLoginScreen extends StatelessWidget {

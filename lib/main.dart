@@ -1,4 +1,4 @@
-import 'package:challengefigma/bike_login_screen.dart';
+import 'package:challengefigma/screens/bike_login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
